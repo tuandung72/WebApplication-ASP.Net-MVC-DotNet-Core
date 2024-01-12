@@ -1,0 +1,7 @@
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.AssemblyInfoInputs.cache
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.AssemblyInfo.cs
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.csproj.CoreCompileInputs.cache
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.RazorAssemblyInfo.cache
+D:\ASP.Net_MVC_TH_01\ASP.Net_MVC_TH_01\obj\Debug\net8.0\ASP.Net_MVC_TH_01.RazorAssemblyInfo.cs

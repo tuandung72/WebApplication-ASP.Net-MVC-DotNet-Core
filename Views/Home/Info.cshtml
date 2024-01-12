@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+@model YourNamespace.StudentModel
+
+@{
+    ViewData["Title"] = "Student Information";
+}
+
+<h2>Student Information</h2>
+<p>Họ và tên: @Model.FullName</p>
+<p>Mã sinh viên: @Model.StudentID</p>
+<p>Địa chỉ: @Model.Address</p>
+<p>Email: @Model.Email</p>
+<p>Sở thích: @Model.Hobbies</p>
+<p>Use this page to detail your site's privacy policy.</p>
